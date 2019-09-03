@@ -1,0 +1,25 @@
+description:
+  file-format: >-
+    csv
+    KML
+    GeoJSON
+  data-type: Point observation
+  horizontal-coverage: Global
+  horizontal-resolution: Variable
+  temporal-coverage: 1946 - present
+  temporal-resolution: Variable
+
+keywords:
+  - "Temporal coverage: Past"
+  - "Spatial coverage: Global"
+  - "Product type: In situ observations"
+  - "Variable domain: Atmosphere (surface)"
+  - "Variable domain: Ocean (surface)"
+
+documentation:
+- url: null
+  title: Marine user guide
+  description: Further and more detailed information on the observations and processing available.
+- url: null
+  title: Marine inventory
+  description: Inventory of observations and parameters available in ICOADS by original data source

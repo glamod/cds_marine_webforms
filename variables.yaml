@@ -1,0 +1,15 @@
+variables:
+  Air temperature:
+    units: K
+  Wet bulb temperature:
+    units: K
+  Water temperature (sea surface temperature):
+    units: K
+  Air pressure:
+    units: Pa
+  Air pressure at sea level:
+    units: Pa
+  Wind from direction:
+    units: degrees true
+  Wind speed:
+    units: m s^-1

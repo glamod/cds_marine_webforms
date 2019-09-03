@@ -1,0 +1,18 @@
+{
+  "observed_variable":{
+    "wet_bulb_temperature":"41",
+    "air_pressure":"57",
+    "air_pressure_at_sea_level":"58",
+    "air_temperature":"85",
+    "water_temperature":"95",
+    "wind_from_direction":"106",
+    "wind_speed":"107"
+  },
+  "platform":{
+    "ship":"2",
+    "drifting_buoy":"5"
+  },
+  "station_type":{
+    "sea_station":"2"
+  }
+}
